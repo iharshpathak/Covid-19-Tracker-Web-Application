@@ -11,7 +11,7 @@ This whole application was developed in __Eclipse IDE__ , Using __JAVA__ as the 
 This web application showcases the global count of the active coronavirus cases. As well as the countires and thier respective states.
 
 
---
+---
 
 ### Tools And Technologies Used
 * >[Java](https://www.java.com/en/)
