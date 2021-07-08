@@ -8,7 +8,7 @@ This whole application was developed in __Eclipse IDE__ , Using __JAVA__ as the 
 
 * The data source of this application is from [this repository](https://github.com/CSSEGISandData/COVID-19) .
 
-This web application showcases the global count of the active coronavirus cases. As well as the countires and thier respective states.
+This web application showcases the global count of the active coronavirus cases. As well as the countires and their respective states.
 
 
 ---
