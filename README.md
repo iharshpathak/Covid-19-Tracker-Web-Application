@@ -10,7 +10,7 @@ This whole application was developed in __Eclipse IDE__ , Using __JAVA__ as the 
 
 This web application showcases the global count of the active coronavirus cases. As well as the countires and their respective states.
 
-<img src="https://raw.githubusercontent.com/iharshpathak/Covid-19-Tracker-Web-Application/main/Screenshot%20(full%20Screen%20Mode%20In%20Browser).jpg" style="height: 500px; width:500px;"/>
+<img src="https://raw.githubusercontent.com/iharshpathak/Covid-19-Tracker-Web-Application/main/Screenshot%20(full%20Screen%20Mode%20In%20Browser).jpg" style="height: 1000px; width:500px;"/>
 
 ---
 
