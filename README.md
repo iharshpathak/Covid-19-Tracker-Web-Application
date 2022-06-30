@@ -17,7 +17,7 @@ This web application showcases the global count of the active coronavirus cases.
 ---
 
 ### Tools And Technologies Used
-* > <a href="https://openjdk.org/"><img src="https://www.java.com/en/" alt="JAVA Logo" style="height: 100px; width:100px;"/></a>
+* >[Java](https://www.java.com/en/)
 
 * >[Spring Boot](https://spring.io/projects/spring-boot)
 ![Spring Boot framework icon](https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg) 
